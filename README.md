@@ -1,4 +1,4 @@
-# Taek Gyu Lee 이택규 (GGYU)
+# Taek Gyu Lee (GGYU)
 
 Hi — I’m Taek Gyu (GGYU), a software developer who builds web apps, developer tools, and open-source projects. I work mainly with JavaScript, TypeScript, and Python.
 
